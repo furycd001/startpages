@@ -1,0 +1,57 @@
+/* Reset */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font: inherit; font-size: 100%; vertical-align: baseline; }html { line-height: 1; }ol, ul { list-style: none; }table { border-collapse: collapse; border-spacing: 0; }caption, th, td { text-align: left; font-weight: normal; vertical-align: middle; }q, blockquote { quotes: none; }q:before, q:after, blockquote:before, blockquote:after { content: ""; content: none; }a img { border: none; }article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary { display: block; }html { height: 100%; }html, body { width: 100%; height: 100%; padding: 0; margin: 0 }.clearfix, .cf { *zoom: 1; }.clearfix:after, .cf:after { content: "\0020"; display: block; height: 0; clear: both; overflow: hidden; visibility: hidden; }
+
+* {
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+html{
+	background-color: #272b35;
+}
+
+body {
+	font-family: Ubuntu;
+	font-size: 10px;
+	font-weight: 400;
+	color: #f2f2f2;
+}
+
+.container {
+	margin: 0 auto;
+	width: 400px;
+	height: 100%;
+	display: table;
+}
+
+.center {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.links {
+	letter-spacing: -2px;
+}
+
+.links a {
+	font-size: 5em;
+	color: #f2f2f2;
+	text-decoration: none;
+}
+
+	.links a:after {
+		position: absolute;
+		content: '';
+		margin-left: 10px;
+	}
+
+	.links li:last-child a:after {
+		content: '';
+	}
+
+.links a:hover {
+	letter-spacing: -1px;
+	color: #8c8c8b;
+}
