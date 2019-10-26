@@ -52,7 +52,7 @@ My collection of startpages....
 
 ----
 
-## Simpplelist
+## Simplelist
 ![alt text](http://i.imgur.com/FOLzfjb.png "Open")
 ![alt text](http://i.imgur.com/BazaQ6I.png "Link Hover")
 
