@@ -69,6 +69,10 @@ My collection of startpages....
 
 ----
 
+## Time
+![alt text](http://i.imgur.com/W8Qi3c5.png "Showing time")
+
+----
 ## Tree
 ![alt text](http://i.imgur.com/wsqY7VH.png "Open")
 ![alt text](http://i.imgur.com/TkFd5zU.png "Link Hover")
