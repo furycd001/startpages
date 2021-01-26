@@ -1,5 +1,6 @@
 body {
 background-color: #C48793;
+overflow:hidden;
 }
 
 .dir {
@@ -24,7 +25,6 @@ list-style-type: none;
 margin-left: 0 0 0 10px;
 padding: 0;
 position: relative;
-overflow:hidden;
 }
 
 .tree li {
@@ -76,7 +76,6 @@ font: inherit;
 }
 
 .align {
-display: flex
 width: 100%;
 position: absolute;
 top: 80px;
