@@ -19,6 +19,13 @@ My collection of startpages....
 
 ----
 
+## FℲ
+![alt text](https://imgur.com/MueMOuK.png "Open")
+![alt text](https://imgur.com/XGCcI6h.png "Link Hover")
+![alt text](https://imgur.com/3OUeS56.png "Link Hover 1")
+
+----
+
 ## Fullscreen
 ![alt text](http://i.imgur.com/oa3mNXo.png "Open")
 ![alt text](http://i.imgur.com/6betm6D.png "Links open")
@@ -45,6 +52,11 @@ My collection of startpages....
 
 ----
 
+## Portrait
+![alt text](https://imgur.com/j88k9aJ.png "Open")
+![alt text](https://imgur.com/Rp6vZms.png "Link Hover")
+
+----
 ## Polaroid
 ![alt text](http://i.imgur.com/vETamaJ.png "Open")
 ![alt text](http://i.imgur.com/O5PAyAG.png "Link Hover")

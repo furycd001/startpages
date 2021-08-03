@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-size: 1.15rem;
+  background-color: #272B35;
+}
+
+header {
+  display: flex;
+  align-items: center;
+}
+header .title {
+  letter-spacing: -1px;
+}
+header .tagline {
+  color: #E5B680;
+  margin-left: auto;
+}
+
+nav {
+  display: flex;
+}
+nav a {
+  color: #E5B680;
+  text-decoration: none;
+  padding: 0.5rem;
+}
+nav a:not(:last-child) {
+  margin-right: 0.7rem;
+}
+nav a:hover {
+  border-radius: 0.15rem;
+  background: #E5B680;
+  color: #272B35;
+}
+nav a:active {
+  background: #ccc;
+}
+
+article {
+  line-height: 1.5;
+}
+
+main {
+  color: #E5B680;
+  margin: 0 auto;
+  max-width: 40rem;
+}
+
+@media (max-width: 750px) {
+  header {
+    flex-direction: column;
+  }
+  header > * {
+    margin: 0 !important;
+  }
+  header .title {
+    margin-bottom: 0.5rem !important;
+  }
+
+  nav {
+    justify-content: center;
+  }
+
+  .tagline {
+    margin: 0 !important;
+    font-size: 0.95em;
+  }
+
+  main {
+    padding: 1rem;
+    margin: 0 !important;
+    max-width: inherit !important;
+  }
+}
+
+.clock {
+  display: flex;
+  justify-content: left;
+  padding: 0.5rem;
+}
+
+span.clockhello1 {
+  padding-right:4px;
+  display:inline-block;
+}
+
+span.clockhello2 {
+  padding-left:4px;
+  display:inline-block;
+}
+
+a {
+  text-decoration: underline;
+  color: #8c8c8b;
+  display: block;
+}
+
+a:hover {
+  color: #E5B680;
+}
