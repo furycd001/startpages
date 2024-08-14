@@ -1,0 +1,32 @@
+@font-face {
+  font-family: Gilbert-Color;
+  src: url(Gilbert-Color.otf) format("opentype");
+}
+
+html, body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f2f2;
+  overflow: hidden;
+}
+
+.hello {
+  width: 100%;
+  word-wrap: break-word;
+  text-align: center;
+  font-family: "Gilbert-Color";
+  font-size: 144px;
+  line-height: 144px;
+  display: inline-block;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+p.name {
+  text-align: right;
+  font-size: 44px;
+  padding-right: 200px;
+  line-height: 44px;
+}

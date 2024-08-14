@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Anastasiya</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="icon" href="favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="Anastasiya.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="video-section">
+      <video id="randomVideo" autoplay muted></video>
+    </div>
+    <div class="links-section">
+      <ul>
+        <li><div class="clock"></div></li>
+        <li><a class="heart" href="https://fosstodon.org/home" target="_blank">Foss</a></li>
+        <li><a class="heart" href="https://lemmy.ml" target="_blank">Lemmy</a></li>
+        <li><a class="heart" href="https://monkeytype.com/" target="_blank">Monkeytype</a></li>
+        <li><a class="heart" href="https://teamwork.tf/" target="_blank">Teamwork</a></li>
+        <li><a class="heart" href="https://uncletopia.com/servers" target="_blank">Uncletopia</a></li>
+        <li><a class="heart" href="https://www.colorhexa.com/" target="_blank">Hexa</a></li>
+        <li><a class="heart" href="https://mycolor.space/" target="_blank">Space</a></li>
+        <li><a class="heart" href="https://github.com/search?o=desc&q=startpage&s=updated&type=Repositories" target="_blank">Startpages</a></li>
+        <li><a class="heart" href="https://codepen.io/trending" target="_blank">Codepen</a></li>
+        <li><a class="heart" href="https://www.instagram.com/anastasiya_furs/" target="_blank">Anastasiya</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="time.js"></script>
+  <script>
+    // List of video files in the "video" folder
+    const videos = [
+      'video/video.webm',
+      'video/blue.webm',
+      'video/7388602537198275846.webm',
+      'video/7387050396444904709.webm',
+      'video/7386248342709243141.webm',
+      'video/7386229038148226310.webm',
+      'video/7377799416440245510.webm',
+      'video/7374404592366259462.webm',
+      'video/7372226536566443270.webm',
+      'video/7371864988572503302.webm',
+      'video/7371823930560040198.webm',
+      'video/7371388432997764358.webm',
+      'video/3407797807681421559.webm',
+      'video/3403359265500799074.webm',
+      'video/3403313112344415768.webm',
+      'video/3401755734558529680.webm',
+      'video/3397500077734247397.webm',
+      'video/3385205092305532205.webm',
+      'video/3373714524815720917.webm',
+      'video/3372818007602853756.webm'
+    ];
+
+    function getRandomVideo() {
+      const randomIndex = Math.floor(Math.random() * videos.length);
+      return videos[randomIndex];
+    }
+
+    function loadRandomVideo() {
+      const videoElement = document.getElementById('randomVideo');
+      videoElement.src = getRandomVideo();
+      videoElement.play();
+    }
+
+    // Load a random video on page load
+    window.onload = loadRandomVideo;
+
+    // Load a new random video when the current one ends
+    document.getElementById('randomVideo').addEventListener('ended', loadRandomVideo);
+  </script>
+</body>
+</html>

@@ -1,16 +1,73 @@
-html{
+html {
   background-color: #272b35;
   font-family: 'Ubuntu', sans-serif;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.hello{
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  width: 60%;
-  transform: translate(-50%, -50%);
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.hello {
+  width: 90%;
+  max-width: 500px;
   text-align: center;
-  word-spacing: -4px;
+}
+
+.button {
+  background-color: #272b35;
+  border: none;
+  color: #f2f2f2;
+  font-size: 48px; /* Increased font size */
+  font-weight: 500;
+  padding: 20px 25px; /* Adjusted padding */
+  margin: 10px 0;
+  width: 100%;
+  max-width: 400px;
+  transition: background-color 0.3s, color 0.3s;
+  border-radius: 11px; /* Add rounded corners to the image */
+}
+
+.button:hover {
+  background-color: #f2f2f2;
+  color: #272b35;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #272b35; /* Opaque background */
+  border-radius: 22px; /* Add rounded corners to the image */
+}
+
+.modal-content {
+  background-color: #272b35;
+  margin: 10% auto; /* Centered vertically */
+  padding: 20px;
+  width: 90%;
+  max-width: 600px;
+  text-align: center;
+  border: none;
+  transition: border-radius 0.3s; /* Smooth transition for border radius */
+}
+
+h2 {
+  color: #f2f2f2;
 }
 
 a {
@@ -18,6 +75,8 @@ a {
   color: #f2f2f2;
   display: block;
   font-weight: 500;
+  margin: 10px 0; /* Adjusted margin */
+  font-size: 24px; /* Increased font size */
 }
 
 a:hover {
@@ -27,47 +86,10 @@ a:hover {
 
 a:hover:before {
   content: "[ ";
-  font-size: 20px;
+  font-size: 24px; /* Increased font size */
 }
 
 a:hover:after {
   content: " ]";
-  font-size: 20px;
-}
-
-.modal {
-  display: none;
-  position: absolute;
-  z-index: 1;
-  padding-top: 20px;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
-  height: auto;
-  overflow: auto;
-}
-
-.modal-content {
-  background-color: #272b35;
-  margin: auto;
-  padding: 20px;
-  border: 1px solid #272b35;
-  width: 60%;
-  text-align: center;
-}
-
-.button {
-  background-color: #272b35;
-  border: none;
-  color: #f2f2f2;
-  font-size: 44px;
-  font-weight: 500;
-}
-
-.button:hover {
-  background-color: #f2f2f2;
-  border: none;
-  color: #272b35;
-  font-size: 44px;
+  font-size: 24px; /* Increased font size */
 }

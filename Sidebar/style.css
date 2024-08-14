@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500&display=swap');
 
 html {
-  background: url(wallpaper.jpg) no-repeat center center fixed;
+  background: url(wallpaper.webp) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

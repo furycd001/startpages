@@ -1,96 +1,52 @@
-# startpages
+# Startpages
 My collection of startpages....
 
-## Alga Alligata 1
-![alt text](http://i.imgur.com/g6BiKHQ.png "Open")
-![alt text](http://i.imgur.com/7Ga2WSl.png "Link Hover")
+## Alga-Alligata
+![Alga Screenshot 1](Alga-Alligata/alga.webp)
+![Alga Screenshot 2](Alga-Alligata/alga1.webp)
 
-----
+## Anastasiya
+![Anastasiya Screenshot 1](Anastasiya/anastasiya.webp)
+![Anastasiya Screenshot 2](Anastasiya/anastasiya1.webp)
 
-## Alga Alligata 2
-![alt text](http://i.imgur.com/k9NSIzb.png "Open")
-![alt text](http://i.imgur.com/rw6qoXo.png "Link Hover")
-
-----
-
-## Alga Alligata 3
-![alt text](http://i.imgur.com/x7pX4Ri.png "Open")
-![alt text](http://i.imgur.com/mMXnUsU.png "Link Hover")
-
-----
-
-## FℲ
-![alt text](https://imgur.com/MueMOuK.png "Open")
-![alt text](https://imgur.com/XGCcI6h.png "Link Hover")
-![alt text](https://imgur.com/3OUeS56.png "Link Hover 1")
-
-----
+## FF
+![FF Screenshot 1](FF/f.webp)
+![FF Screenshot 2](FF/f1.webp)
+![FF Screenshot 3](FF/f2.webp)
 
 ## Fullscreen
-![alt text](http://i.imgur.com/oa3mNXo.png "Open")
-![alt text](http://i.imgur.com/6betm6D.png "Links open")
-![alt text](http://i.imgur.com/gDPmltj.png "Link Hover")
-
-----
+![Fullscreen Screenshot 1](Fullscreen/fullscreen.webp)
+![Fullscreen Screenshot 2](Fullscreen/fullscreen1.webp)
+![Fullscreen Screenshot 3](Fullscreen/fullscreen2.webp)
 
 ## Mnml
-![alt text](http://i.imgur.com/ndrfWNH.png "Open")
-![alt text](http://i.imgur.com/VUfbK2Y.png "Link Hover")
-
-## Mnml_alt
-![alt text](http://i.imgur.com/HeqY8hW.png "Open")
-![alt text](http://i.imgur.com/6bJvfP0.png "Link Hover")
-![alt text](http://i.imgur.com/dp1ewTg.png "Searchbox")
-
-----
+![Mnml Screenshot 1](Mnml/mnml.webp)
+![Mnml Screenshot 2](Mnml/mnml1.webp)
 
 ## Modal
-![alt text](http://i.imgur.com/CUiDvMr.png "Open")
-![alt text](http://i.imgur.com/fMNuq7s.png "Menu Hover")
-![alt text](http://i.imgur.com/MAvFST6.png "Link open")
-![alt text](http://i.imgur.com/XHVgNId.png "Link Hover")
+![Modal Screenshot 1](Modal/modal.webp)
+![Modal Screenshot 2](Modal/modal1.webp)
+![Modal Screenshot 3](Modal/modal2.webp)
 
-----
+## Motivation
+![Motivation Screenshot](Motivation/motivation.webp)
+
+## Polaroid
+![Polaroid Screenshot 1](Polaroid/polariod.webp)
+![Polaroid Screenshot 2](Polaroid/polariod1.webp)
 
 ## Portrait
-![alt text](https://imgur.com/j88k9aJ.png "Open")
-![alt text](https://imgur.com/Rp6vZms.png "Link Hover")
-
-----
-## Polaroid
-![alt text](http://i.imgur.com/vETamaJ.png "Open")
-![alt text](http://i.imgur.com/O5PAyAG.png "Link Hover")
-
-----
+![Portrait Screenshot 1](Portrait/images/image.webp)
+![Portrait Screenshot 2](Portrait/images/image1.webp)
 
 ## Searchpage
-![alt text](http://i.imgur.com/auz6DDH.png "Open")
-
-----
+![Searchpage Screenshot](Searchpage/startpage.png)
 
 ## Sidebar
-![alt text](http://i.imgur.com/Xsa4j8Z.png "Open")
-![alt text](http://i.imgur.com/eSrM5zA.png "Link open")
-![alt text](http://i.imgur.com/nnCn5MA.png "Link Hover")
+![Sidebar Screenshot 1](Sidebar/sidebar.webp)
+![Sidebar Screenshot 2](Sidebar/sidebar1.webp)
+![Sidebar Screenshot 3](Sidebar/sidebar2.webp)
 
-----
-
-## Simplelist
-![alt text](http://i.imgur.com/FOLzfjb.png "Open")
-![alt text](http://i.imgur.com/BazaQ6I.png "Link Hover")
-
-----
-
-## Time
-![alt text](http://i.imgur.com/W8Qi3c5.png "Showing time")
-
-----
 ## Tree
-![alt text](http://i.imgur.com/wsqY7VH.png "Open")
-![alt text](http://i.imgur.com/TkFd5zU.png "Link Hover")
-
-----
-
-## Tyopography
-![alt text](http://i.imgur.com/5oYqraX.png "Open")
-![alt text](http://i.imgur.com/NNGwMzS.png "Link Hover")
+![Tree Screenshot 1](Tree/tree.webp)
+![Tree Screenshot 2](Tree/tree1.webp)
