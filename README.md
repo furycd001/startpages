@@ -36,8 +36,8 @@ My collection of startpages....
 ![Polaroid Screenshot 2](Polaroid/polariod1.webp)
 
 ## Portrait
-![Portrait Screenshot 1](Portrait/images/image.webp)
-![Portrait Screenshot 2](Portrait/images/image1.webp)
+![Portrait Screenshot 1](Portrait/portrait.webp)
+![Portrait Screenshot 2](Portrait/portrait1.webp)
 
 ## Searchpage
 ![Searchpage Screenshot](Searchpage/startpage.png)
