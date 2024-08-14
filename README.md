@@ -40,7 +40,7 @@ My collection of startpages....
 ![Portrait Screenshot 2](Portrait/portrait1.webp)
 
 ## Searchpage
-![Searchpage Screenshot](Searchpage/startpage.png)
+![Searchpage Screenshot](Searchpage/searchpage.webp)
 
 ## Sidebar
 ![Sidebar Screenshot 1](Sidebar/sidebar.webp)
